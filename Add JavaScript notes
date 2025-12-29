@@ -5,3 +5,7 @@ JavaScript is used to make webpages interactive.
 ## JavaScript Basics
 
 JavaScript code runs line by line.
+## Simple JavaScript Example
+
+```javascript
+alert("Hello!");
