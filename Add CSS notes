@@ -10,7 +10,7 @@ CSS is used to add colors and style to a webpage.
 ## CSS Syntax
 
 CSS rules have selectors and properties.
-## Simple CSS Example
+# Simple CSS Example
 
 ```css
 p {
