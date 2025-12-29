@@ -9,3 +9,6 @@ JavaScript code runs line by line.
 
 ```javascript
 alert("Hello!");
+## Variables in JavaScript
+
+Variables store data values used in a program.
