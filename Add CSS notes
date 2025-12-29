@@ -16,3 +16,6 @@ CSS rules have selectors and properties.
 p {
   color: blue;
 }
+## CSS Properties
+
+Properties define how elements look, such as color and size.
