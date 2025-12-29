@@ -14,3 +14,8 @@ HTML defines the structure of a webpage using elements and tags.
 ```html
 <h1>Hello World</h1>
 <p>This is a paragraph</p>
+## Common HTML Tags
+
+- `<h1>` for headings  
+- `<p>` for paragraphs  
+- `<a>` for links  
