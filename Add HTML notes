@@ -9,3 +9,8 @@ HTML files contain elements wrapped inside tags.
 ## What HTML Does
 
 HTML defines the structure of a webpage using elements and tags.
+## Simple HTML Example
+
+```html
+<h1>Hello World</h1>
+<p>This is a paragraph</p>
