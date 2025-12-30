@@ -26,3 +26,6 @@ Comments are notes that do not appear on the webpage.
 
 ```html
 <!-- This is a comment -->
+## HTML Attributes
+
+Attributes provide extra information about elements.
