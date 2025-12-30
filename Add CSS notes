@@ -23,3 +23,6 @@ Properties define how elements look, such as color and size.
 
 ```css
 /* This is a CSS comment */
+## CSS Selectors
+
+Selectors choose which HTML elements to style.
