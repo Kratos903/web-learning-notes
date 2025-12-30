@@ -22,3 +22,7 @@ HTML defines the structure of a webpage using elements and tags.
 ## HTML Comments
 
 Comments are notes that do not appear on the webpage.
+## HTML Comment Example
+
+```html
+<!-- This is a comment -->
