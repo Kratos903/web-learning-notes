@@ -19,3 +19,7 @@ p {
 ## CSS Properties
 
 Properties define how elements look, such as color and size.
+## CSS Comment Example
+
+```css
+/* This is a CSS comment */
