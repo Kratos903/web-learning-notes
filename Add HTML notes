@@ -19,3 +19,6 @@ HTML defines the structure of a webpage using elements and tags.
 - `<h1>` for headings  
 - `<p>` for paragraphs  
 - `<a>` for links  
+## HTML Comments
+
+Comments are notes that do not appear on the webpage.
