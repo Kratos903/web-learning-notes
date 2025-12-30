@@ -16,3 +16,6 @@ Variables store data values used in a program.
 
 ```javascript
 // This is a comment
+## Console Logging
+
+console.log() is used to print messages for debugging.
