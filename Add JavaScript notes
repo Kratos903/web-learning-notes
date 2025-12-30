@@ -12,3 +12,7 @@ alert("Hello!");
 ## Variables in JavaScript
 
 Variables store data values used in a program.
+## JavaScript Comment Example
+
+```javascript
+// This is a comment
