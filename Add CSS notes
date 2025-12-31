@@ -26,3 +26,9 @@ Properties define how elements look, such as color and size.
 ## CSS Selectors
 
 Selectors choose which HTML elements to style.
+## CSS Color Example
+
+```css
+h1 {
+  color: red;
+}
