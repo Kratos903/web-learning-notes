@@ -32,3 +32,10 @@ Attributes provide extra information about elements.
 ## HTML Lists
 
 HTML supports ordered and unordered lists.
+## HTML List Example
+
+```html
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
